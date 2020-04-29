@@ -1,0 +1,15 @@
+.search-input {
+  height: 90rpx;
+  padding: 10rpx;
+  background-color: var(--themeColor);
+}
+.search-input navigator {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  /*文字左右居中*/
+  align-items: center;
+  /*水平居中*/
+  background-color: #fff;
+  border-radius: 10rpx;
+}
